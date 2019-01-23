@@ -1,0 +1,29 @@
+.body{
+
+   margin: 0px;
+
+   h1{
+      font-family: District Pro;
+   } 
+
+   nav {
+      background-color: #cccccc;
+
+      .nav-main {
+         display: flex;
+         list-style-type: none;
+         padding: 0px;
+         margin: 0px;
+
+         li {
+            display: inline;
+         }
+      }
+   }
+
+   img.logo-link {
+      display: flex;
+      margin: auto;
+      padding-right: 5px;
+   }
+}

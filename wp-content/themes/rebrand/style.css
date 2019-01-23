@@ -1,0 +1,25 @@
+/*
+ * Theme Name: Rebrand
+ * Description: A theme made to create accessible blogs.
+ * Author: Caitlyn Stone
+*/
+
+
+.body {
+    margin: 0px; }
+    .body h1 {
+      font-family: District Pro; }
+    .body nav {
+      background-color: #cccccc; }
+      .body header nav .nav-main {
+        display: flex;
+        list-style-type: none;
+        padding: 0px;
+        margin: 0px; }
+        .body nav .nav-main li {
+          display: inline; }
+    .body img.logo-link {
+      display: flex;
+      margin: auto;
+      padding-right: 5px; }
+  
